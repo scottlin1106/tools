@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: jsf-api.jar jsf-impl.jar jstl-1.2.jar dom4j-1.6.jar gson-2
+ .2.1.jar guava-18.0.jar jaxen-1.1.1.jar jedis-2.9.0.jar servlet-api.j
+ ar okhttp-4.9.0.jar core-1.51.0.0.jar ezmorph-1.0.6.jar httpcore-4.3.
+ 2.jar httpmime-4.5.12.jar jstl-impl-1.2.2.jar bcprov-jdk15-140.jar co
+ mmons-lang-2.6.jar httpclient-4.3.4.jar slf4j-api-1.7.20.jar commons-
+ codec-1.11.jar json-lib-2.4-jdk15.jar commons-pool2-2.4.2.jar bitcoin
+ j-core-0.14.7.jar cryptix-jce-provider.jar Hnapay_Client_V2.6.2.jar c
+ ommons-logging-1.1.1.jar commons-httpclient-3.1.jar javax.servlet.jsp
+ .jstl.jar commons-beanutils-1.9.2.jar dinpayRsaSignAPI-2.7.10.jar com
+ mons-collections-3.2.2.jar com.fasterxml.jackson.core.jar com.fasterx
+ ml.jackson.databind.jar com.fasterxml.jackson.annotations.jar
+Main-Class: mainTools
+

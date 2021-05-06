@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact name="tools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tools_jar</output-path>
+    <root id="root">
+      <element id="archive" name="tools.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="tools" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$PROJECT_DIR$/lib/bcprov-jdk15-140.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/bitcoinj-core-0.14.7.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/com.fasterxml.jackson.annotations.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/com.fasterxml.jackson.core.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/com.fasterxml.jackson.databind.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-beanutils-1.9.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-codec-1.11.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-collections-3.2.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-httpclient-3.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-lang-2.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging-1.1.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/commons-pool2-2.4.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/core-1.51.0.0.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/cryptix-jce-provider.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/dinpayRsaSignAPI-2.7.10.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/dom4j-1.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/ezmorph-1.0.6.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/gson-2.2.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/guava-18.0.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/Hnapay_Client_V2.6.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/httpclient-4.3.4.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/httpcore-4.3.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/httpmime-4.5.12.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/jaxen-1.1.1.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/jedis-2.9.0.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/jsf-api.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/jsf-impl.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/jstl-1.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/jstl-impl-1.2.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/okhttp-4.9.0.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/servlet-api.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/lib/slf4j-api-1.7.20.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
